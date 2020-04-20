@@ -662,21 +662,6 @@ pre code {
   max-width: 16.6666666667%;
 }
 
-.row-cols-7 > * {
-  flex: 0 0 25%;
-  max-width: 25%;
-}
-
-.row-cols-8 > * {
-  flex: 0 0 20%;
-  max-width: 20%;
-}
-
-.row-cols-9 > * {
-  flex: 0 0 16.6666666667%;
-  max-width: 16.6666666667%;
-}
-
 .col-auto {
   flex: 0 0 auto;
   width: auto;
@@ -10110,7 +10095,7 @@ h3 {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 20rem;
 }
 
 @media (min-width: 992px) {
